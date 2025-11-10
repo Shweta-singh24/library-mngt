@@ -43,10 +43,10 @@ Student	Borrow & return books, view available books
 
 # 4️⃣ Run the server
 npm run dev
-# or
+or
 node server.js
 
-🧩 API Endpoints
+# 🧩 API Endpoints
 🔑 Auth Routes (/api/auth)
 Method	|| Endpoint ||	Description
 
